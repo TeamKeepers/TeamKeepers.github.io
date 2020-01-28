@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+<a href="https://www.keepizi.com"><img src="https://www.keepizi.com/wp-content/uploads/2018/08/Logo-Keepizi_violet_mobile.png" title="Keepizi" alt="Keepizi"></a>
 
-You can use the [editor on GitHub](https://github.com/TeamKeepers/TeamKeepers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+***Guillaume Robert's profile - Team Keeper member***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Profile page - Guillaume Robert
+> This is a presentation of my work through different languages such as Javascript, PHP, Python and other stuff
 
-### Markdown
+**Do not forget to ...**
+- visit Keepizi.com (french)
+- Check the different projects online
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TeamKeepers/TeamKeepers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Time to check it out [![CHECK IT OUT](https://media.giphy.com/media/9Jcw7ESF7uk7cQwUjO/giphy.gif)]()
